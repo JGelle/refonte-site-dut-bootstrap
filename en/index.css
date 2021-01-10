@@ -23,6 +23,12 @@ main {
     color: #758501;
 }
 
+img {
+    max-width: 75%;
+    height: auto;
+    margin-left: 15px
+}
+
 h1 {
     font-size: 24px;
     font-weight: bold;
