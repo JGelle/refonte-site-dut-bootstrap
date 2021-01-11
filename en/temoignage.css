@@ -23,10 +23,16 @@ main {
     color: #758501;
 }
 
-.petit {
-    max-width: 75%;
+img {
+    max-width: 75;
     height: auto;
-    margin: ;
+    margin-left: 15px
+}
+
+.damien {
+    max-width: 25%;
+    height: auto;
+    margin-left: middle ;
 }
 
 h1 {
